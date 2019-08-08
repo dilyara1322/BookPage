@@ -1,0 +1,28 @@
+body {
+	background-image: url(3.jpg);
+}
+
+div {
+	margin: 10px;
+	padding: 10px;
+}
+
+img {
+	width: 200px;
+}
+
+.bookslist, .filter, .book-div {
+	border: 2px dashed brown;
+	background-image: url(2.jpg);
+}
+
+.book-div {
+	background-image: none;
+	background-color: #f7c66c;
+	padding-left: 30px;
+}
+
+.pages {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
